@@ -38,7 +38,7 @@ Aqui está um resumo dinâmico da minha atividade e das linguagens que mais util
 
 <div align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=usuariodogithb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=usuariodogithb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
     height="180em"
   />
 </div>
