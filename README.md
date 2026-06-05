@@ -36,11 +36,7 @@ Aqui estão as principais linguagens, frameworks e ferramentas que utilizo no me
 Aqui está um resumo dinâmico da minha atividade e das linguagens que mais utilizo:
 
 <div align="center">
-  <img
-    height="180em"
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usuariodogithb&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-    alt="Estatísticas do Bruno"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usuariodogithb&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
 ---
