@@ -2,7 +2,7 @@
 
 **Bacharel em Ciência da Computação | Desenvolvedor**
 
-Sou apaixonado por tecnologia e focado em construir soluções eficientes. Atualmente, dedico meu tempo aprimorando minhas habilidades e desenvolvendo software SaaS focado no modelo B2B. Sempre buscando organizar meus códigos e evoluir um pouco a cada dia. 
+Focado em construir soluções eficientes. Atualmente, dedico meu tempo aprimorando minhas habilidades e desenvolvendo software SaaS modelo B2B. Sempre buscando organizar meus códigos e evoluir um pouco a cada dia. 
 
 ---
 
