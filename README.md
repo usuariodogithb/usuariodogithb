@@ -39,10 +39,9 @@ Aqui estão as principais linguagens, frameworks e ferramentas que utilizo no me
 Aqui está um resumo dinâmico das minhas atividades:
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=usuariodogithb&theme=nord&no-frame=true&row=1&margin-w=15"
-    alt="Troféus"
-  />
+  <a href="https://github.com/SEU_USUARIO_AQUI">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usuariodogithb&layout=compact&theme=nord&hide_border=true" />
+  </a>
 </div>
 
 ---
