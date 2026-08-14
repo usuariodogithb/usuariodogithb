@@ -40,12 +40,10 @@ Aqui está um resumo dinâmico das minhas atividades:
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=usuariodogithb&theme=nord&hide_border=true"
-    height="180em"
-    alt="Estatísticas de Commits do Bruno"
+    src="https://github-profile-trophy.vercel.app/?username=usuariodogithb&theme=nord&no-frame=true&row=1&margin-w=15"
+    alt="Troféus do Bruno"
   />
 </div>
-
 
 ---
 
