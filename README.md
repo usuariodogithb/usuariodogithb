@@ -41,7 +41,7 @@ Aqui está um resumo dinâmico das minhas atividades:
 <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=usuariodogithb&theme=nord&no-frame=true&row=1&margin-w=15"
-    alt="Troféus do Bruno"
+    alt="Troféus"
   />
 </div>
 
