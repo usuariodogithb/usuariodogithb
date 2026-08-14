@@ -40,7 +40,7 @@ Aqui está um resumo dinâmico das minhas atividades:
 
 <div align="center">
   <a href="https://github.com/usuariodogithb">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=usuariodogithb&layout=compact&theme=nord&hide_border=true" />
+    <img src="https://github-readme-stats-zjt7.vercel.app/api/top-langs?username=usuariodogithb&layout=compact&theme=nord&hide_border=true" />
   </a>
 </div>
 
