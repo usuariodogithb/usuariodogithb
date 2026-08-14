@@ -38,13 +38,13 @@ Aqui estão as principais linguagens, frameworks e ferramentas que utilizo no me
 
 Aqui está um resumo dinâmico das minhas atividades:
 
- <div align="center">
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=usuariodogithb&show_icons=true&theme=nord&include_all_commits=true&v=1"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=usuariodogithb&theme=nord&hide_border=true"
     height="180em"
+    alt="Estatísticas de Commits do Bruno"
   />
 </div>
-
 
 
 ---
