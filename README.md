@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno Hernandes! 👋
+# Olá, eu sou o Bruno Hernandes!
 
 **Bacharel em Ciência da Computação | Desenvolvedor**
 
@@ -34,9 +34,11 @@ Aqui estão as principais linguagens, frameworks e ferramentas que utilizo no me
 ---
 
 
-## 📊 Minhas Estatísticas no GitHub
+<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
 
-Aqui está um resumo dinâmico das minhas atividades:
+<p align="center">
+  Aqui está um resumo dinâmico das minhas atividades:
+</p>
 
 <div align="center">
   <a href="https://github.com/usuariodogithb">
