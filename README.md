@@ -34,19 +34,15 @@ Aqui estão as principais linguagens, frameworks e ferramentas que utilizo no me
 ---
 
 
-<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
+## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  Aqui está um resumo dinâmico das minhas atividades:
-</p>
+Aqui está um resumo dinâmico das minhas atividades:
 
 <div align="center">
   <a href="https://github.com/usuariodogithb">
     <img src="https://github-readme-stats-zjt7.vercel.app/api/top-langs?username=usuariodogithb&layout=compact&langs_count=6&theme=nord&hide_border=true" />
   </a>
 </div>
-
----
 
 ### 📫 Como me encontrar
 
