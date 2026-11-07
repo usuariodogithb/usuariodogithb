@@ -33,7 +33,6 @@ Aqui estão as principais linguagens, frameworks e ferramentas que utilizo no me
 
 ---
 
-
 ## 📊 Minhas Estatísticas no GitHub
 
 Aqui está um resumo dinâmico das minhas atividades:
